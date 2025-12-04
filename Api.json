@@ -1,0 +1,8 @@
+[
+  {
+    "Name": "Test-Expired",
+    "Key": "YOUR_ANDROID_ID_HERE",
+    "Valid": "10",
+    "Expiration": "2025-12-14"
+  }
+]
