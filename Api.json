@@ -2,7 +2,7 @@
   {
     "Name": "Test-Expired",
     "Key": "4219537158605425",
-    "Valid": "0",
-    "Expiration": "0"
+    "Valid": "1",
+    "Expiration": "1"
   }
 ]
